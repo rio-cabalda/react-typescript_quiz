@@ -1,8 +1,5 @@
 # Getting Started with Create React App
 
-API
-https://opentdb.com/api.php?amount=10&category=18&difficulty=medium
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
